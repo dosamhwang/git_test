@@ -1,7 +1,0 @@
-#include <stfio.h>
-
-int main(void) {
-	printf("Hi");
-	printf("Hello World");
-	return 0;
-}
